@@ -1,5 +1,5 @@
 # Colors
-Simple llibreri de Colors per utilitzar-la en els programes consola
+Simple llibreria de Colors per utilitzar-la en els programes consola
 
 
 ## Colors

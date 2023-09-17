@@ -26,7 +26,7 @@ Simple llibreri de Colors per utilitzar-la en els programes consola
 Importa la llibreria. Crea una variable de la classe i ja pots utilitzar-la.
 Per exemple:
 ```
-Colors cl=new Colors
+Colors cl=new Colors;
 System.out.println(cl.roig+"Hola, com va?"+cl.nc);
 ```
 

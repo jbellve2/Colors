@@ -20,7 +20,8 @@ Simple llibreria de Colors per utilitzar-la en els programes consola
 - [ ] Normal
 - [ ] Negreta
 - [ ] Cursiva
-- [ ] Tatxat
+- [ ] Subratllat
+- [ ] Ratllat
 
 ## Usabilitat
 Importa la llibreria. Crea una variable de la classe i ja pots utilitzar-la.

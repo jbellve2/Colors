@@ -17,7 +17,7 @@ public class Colors {
     public String gris = "\033[0;37m";
 
 
-    // Negrita
+    // Negreta
     public String roigN = "\033[1;31m";
     public String cyanN = "\033[1;36m";
     public String verdN = "\033[1;32m";
@@ -50,7 +50,7 @@ public class Colors {
     public String grisS = "\033[4;37m";
 
 
-    // Tatxat
+    // Ratllat
     public String roigT = "\033[9;31m";
     public String cyanT = "\033[9;36m";
     public String verdT = "\033[9;32m";
